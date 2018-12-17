@@ -1,0 +1,5 @@
+ftemp=float(input("Enter the temperatures in degrees Fahrenheit?"))
+ctemp=round(((ftemp-32)/1.8),2)
+ftemp=str(ftemp)
+ctemp=str(ctemp)
+print("The temperature " + ftemp + " degrees Fahrenheit is "+ ctemp+" degrees Celsius.")

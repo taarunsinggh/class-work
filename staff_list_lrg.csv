@@ -1,0 +1,322 @@
+Emp ID,Last Name,First Name,Address,City,State,Zip,Telephone,Hiredate,Dept,Location,Work Phone,M/S,Budget,Grade,Salary,Health Plan,Supervisor Name,Supr Phone
+10001,Sullivan,Frank,18211 E. Valley Hwy.,Kent,WA,98032,(253) 872-1000,5/28/1983,PROD,Renton,(425) 393-1000,PB-18,R-1779,20,"5,523.60",Regence BlueShield ,Wes Adams,(206) 221-1958
+10025,Selby,Betty,15702 116Th Se,Renton,WA,98058,(425) 226-1002,6/21/1983,PROD,Seattle,(206) 221-1002,QR-35,R-2661,12,"4,050.64",Regence BlueShield ,Marsha Mosley,(206) 221-1975
+10090,O'Brien,Ken,312 Seneca,Renton,WA,98055,(425) 227-1009,8/25/1983,MKTG,Bellevue,(425) 882-1009,RL-27,M-1211,13,"4,234.75",Kaiser Permanente ,Barry Slatta,(206) 882-2246
+10269,Duff,Ray,132 East Main,Auburn,WA,98002,(253) 833-1026,2/20/1984,PROD,Seattle,(206) 221-1026,QR-07,R-2661,4,"2,577.68",Kaiser WA,Eleanor Lancaster,(206) 221-1124
+10270,Silby,Judy,1402 20Th St. Nw Ste. #4,Auburn,WA,98001,(253) 833-1027,2/21/1984,MKTG,Bellevue,(425) 882-1027,RL-27,M-1211,15,"4,603.01",Kaiser WA,Barry Slatta,(206) 882-2246
+10393,Harrington,Donna,1150 Raymond Ave. Sw,Renton,WA,98055,(425) 227-1039,6/23/1984,PROD,Seattle,(206) 221-1039,QR-06,R-5321,5,"2,761.79",Kaiser WA,Joe Stone,(206) 221-2252
+10430,Harding,Joel,204 H St. Nw,Auburn,WA,98001,(253) 833-1043,7/30/1984,MKTG,Bellevue,(425) 882-1043,RL-27,M-1211,10,"3,682.40",Regence BlueShield ,Barry Slatta,(206) 882-2246
+10474,Rathke,Nicole,61 Shattuck Ave. S.,Renton,WA,98055,(425) 227-1047,9/12/1984,PROD,Seattle,(206) 221-1047,QR-12,R-2661,4,"2,577.68",Kaiser Permanente ,Harry Hillis,(206) 221-2179
+10517,Lee,Allen,22645 76Th Av S,Kent,WA,98032,(253) 872-1051,10/25/1984,SALE,Bellevue,(425) 882-1051,HG-12,S-3006,15,"4,603.01",Regence BlueShield ,Bob Stewart,(206) 882-1590
+10544,Allert,Maria,865 Lind Sw,Renton,WA,98055,(425) 227-1054,11/21/1984,PROD,Seattle,(206) 221-1054,QR-27,R-2661,2,"2,209.44",Regence BlueShield ,Lynn Jarret,(206) 221-1366
+10639,Samuelson,Ed,19044 108Th Ave. Se,Renton,WA,98055,(425) 227-1063,2/24/1985,PROD,Renton,(425) 393-1063,PB-14,R-1779,6,"2,945.92",Regence BlueShield ,Molly Goldberg,(206) 393-1513
+10702,Graves,Bert,904 North 36Th,Renton,WA,98056,(425) 226-1070,4/28/1985,ACCT,Seattle,(206) 221-1070,BX-45,A-1834,14,"4,418.88",Kaiser WA,Val Johnson,(206) 221-1958
+10853,Young,Jim,1408 15Th St. Nw,Auburn,WA,98001,(253) 833-1085,9/26/1985,PROD,Renton,(425) 393-1085,PB-14,R-1779,17,"4,971.25",Regence BlueShield ,Molly Goldberg,(206) 393-1513
+10876,Wilson,Fred,955 Lind Ave Sw,Renton,WA,98055,(425) 227-1087,10/19/1985,PROD,Seattle,(206) 221-1087,QR-12,R-2661,13,"4,234.75",Regence BlueShield ,Harry Hillis,(206) 221-2179
+10881,Mason,Christine,560 Naches,Renton,WA,98055,(425) 227-1088,10/24/1985,ENGR,Renton,(425) 393-1088,XJ-67,E-1089,14,"4,418.88",Regence BlueShield ,Dave Rogers,(206) 393-1973
+10884,Franklin,Dorothy,Gsa Wrihs 3 73 C St. Sw,Auburn,WA,98001,(253) 833-1088,10/27/1985,PROD,Seattle,(206) 221-1088,QR-27,R-2661,18,"5,155.36",Regence BlueShield ,Lynn Jarret,(206) 221-1366
+10911,McCarthy,Steven,18211 E. Valley Rd.,Kent,WA,98032,(253) 872-1091,11/23/1985,PROD,Seattle,(206) 221-1091,QR-35,R-2661,7,"3,130.03",Kaiser WA,Marsha Mosley,(206) 221-1975
+11127,Whitfield,Barbara,"14900 Interurban Ave. S., #290",Tukwila,WA,98168,(206) 575-1112,6/27/1986,SALE,Bellevue,(425) 882-1112,HG-12,S-3006,3,"2,393.57",Kaiser WA,Bob Stewart,(206) 882-1590
+11129,Rucker,Pamela,2715 Auburn Way North,Auburn,WA,98002,(253) 833-1112,6/29/1986,PROD,Seattle,(206) 221-1112,QR-27,R-2661,15,"4,603.01",Kaiser WA,Lynn Jarret,(206) 221-1366
+11133,Rubenstein,Arthur,2200 One Union Square,Seattle,WA,98101,(206) 452-1113,7/3/1986,PROD,Renton,(425) 393-1113,PB-18,R-1779,5,"2,761.79",Kaiser WA,Frank Sullivan,(206) 393-1000
+11153,Quinlan,Leslie,1531 20Th St. Nw,Auburn,WA,98001,(253) 833-1115,7/23/1986,PROD,Renton,(425) 393-1115,PB-21,R-1779,18,"5,155.36",Kaiser WA,Frank Borman,(206) 393-1265
+11157,Hill,Erica,3419 C St. Ne,Auburn,WA,98002,(253) 833-1115,7/27/1986,SALE,Bellevue,(425) 882-1115,HG-12,S-3006,4,"2,577.68",Regence BlueShield ,Bob Stewart,(206) 882-1590
+11181,Carson,Brian,1120 Sw 16Th,Renton,WA,98055,(425) 227-1118,8/20/1986,PROD,Seattle,(206) 221-1118,QR-31,R-5321,15,"4,603.01",Regence BlueShield ,Bob Irwin,(206) 221-1549
+11222,Asher,Jane,130 Ne 3Rd,Auburn,WA,98002,(253) 833-1122,9/30/1986,ACCT,Seattle,(206) 221-1122,BX-45,A-1834,1,"2,025.33",Regence BlueShield ,Val Johnson,(206) 221-1958
+11239,Lloyd,Jean,101 2Nd St. Ne,Auburn,WA,98002,(253) 833-1123,10/17/1986,PROD,Renton,(425) 393-1123,PB-18,R-1779,1,"2,025.33",Regence BlueShield ,Frank Sullivan,(206) 393-1000
+11249,Lancaster,Eleanor,308 W. Main,Auburn,WA,98001,(253) 833-1124,10/27/1986,PROD,Seattle,(206) 221-1124,QR-07,R-2661,20,"5,523.60",Regence BlueShield ,Wes Adams,(206) 221-1958
+11407,Simpson,Sheila,2623 West Valley Hwy.,Auburn,WA,98001,(253) 833-1140,4/3/1987,SALE,Bellevue,(425) 882-1140,HG-12,S-3006,5,"2,761.79",Kaiser Permanente ,Bob Stewart,(206) 882-1590
+11463,McGuire,Ned,2807 Auburn Way North,Auburn,WA,98002,(253) 833-1146,5/29/1987,PROD,Renton,(425) 393-1146,PB-18,R-1779,11,"3,866.53",Regence BlueShield ,Frank Sullivan,(206) 393-1000
+11464,Cooper,June,615 2Nd Nw,Auburn,WA,98001,(253) 833-1146,5/29/1987,PROD,Seattle,(206) 221-1146,QR-35,R-2661,15,"4,603.01",Regence BlueShield ,Marsha Mosley,(206) 221-1975
+11524,Kellerman,Kurt,101 Lund Rd. Sw,Auburn,WA,98001,(253) 833-1152,7/29/1987,PROD,Seattle,(206) 221-1152,QR-19,R-5321,13,"4,234.75",Regence BlueShield ,Bill Harrison,(206) 221-2205
+11582,Robertson,Georgia,17601 S.E. 272 St.,Kent,WA,98042,(253) 872-1158,9/25/1987,ACCT,Seattle,(206) 221-1158,BX-45,A-1834,3,"2,393.57",Regence BlueShield ,Val Johnson,(206) 221-1958
+11583,Webster,Charles,800 Sw 16Th St.,Renton,WA,98055,(425) 227-1158,9/26/1987,ENGR,Renton,(425) 393-1158,XJ-67,E-1089,6,"2,945.92",Regence BlueShield ,Dave Morgan,(206) 393-2002
+11584,Collins,Jerry,401 Rainier Ave. N.,Renton,WA,98055,(425) 227-1158,9/26/1987,PROD,Seattle,(206) 221-1158,QR-12,R-2661,11,"3,866.53",Regence BlueShield ,Harry Hillis,(206) 221-2179
+11585,Bloom,Kathleen,846 Lind Sw,Renton,WA,98055,(425) 227-1158,9/26/1987,PROD,Renton,(425) 393-1158,PB-21,R-1779,4,"2,577.68",Regence BlueShield ,Frank Borman,(206) 393-1265
+11616,Wyman,Jeffrey,560 Hardy Ave. Sw,Renton,WA,98055,(425) 227-1161,10/29/1987,PROD,Seattle,(206) 221-1161,QR-06,R-5321,9,"3,498.27",Regence BlueShield ,Joe Stone,(206) 221-2252
+11624,Rosen,Barry,"25628 101 S.E., #A",Kent,WA,98031,(253) 872-1162,11/6/1987,PROD,Seattle,(206) 221-1162,QR-19,R-5321,4,"2,577.68",Regence BlueShield ,Bill Harrison,(206) 221-2205
+11638,Palmer,Barbara,4101 Lake Washington Blvd. N.,Renton,WA,98055,(425) 227-1163,11/20/1987,PROD,Seattle,(206) 221-1163,QR-06,R-5321,3,"2,393.57",Regence BlueShield ,Joe Stone,(206) 221-2252
+11715,Depner,Marilyn,1025 6Th Ave. N.,Kent,WA,98032,(253) 872-1171,2/5/1988,PROD,Seattle,(206) 221-1171,QR-07,R-2661,19,"5,339.47",Kaiser WA,Eleanor Lancaster,(206) 221-1124
+11730,Brewster,Edwin,833 Houser Way N.,Renton,WA,98055,(425) 227-1173,2/20/1988,MKTG,Bellevue,(425) 882-1173,RL-27,M-1211,4,"2,577.68",Kaiser WA,Bob Shavers,(206) 882-1281
+11913,Holliday,Joan,23805 104Th S.E.,Kent,WA,98031,(253) 872-1191,8/21/1988,PROD,Seattle,(206) 221-1191,QR-27,R-2661,14,"4,418.88",Regence BlueShield ,Lynn Jarret,(206) 221-1366
+11972,Wentworth,Cathy,300 Airport Way,Renton,WA,98055,(425) 227-1197,10/19/1988,ACCT,Renton,(425) 393-1197,BB-27,A-1834,10,"3,682.40",Regence BlueShield ,Barbara Carrera,(206) 393-2000
+12002,Smith,Steve,20717 Pacific Hwy. S.,Seattle,WA,98188,(206) 452-1200,11/18/1988,ACCT,Renton,(425) 393-1200,BB-27,A-1834,8,"3,314.16",Regence BlueShield ,Barbara Carrera,(206) 393-2000
+12003,Larsen,Joanne,1402 20Th St. Nw #7,Auburn,WA,98001,(253) 833-1200,11/19/1988,PROD,Renton,(425) 393-1200,PB-18,R-1779,18,"5,155.36",Regence BlueShield ,Frank Sullivan,(206) 393-1000
+12133,Madison,Don,3611 St. Ne #177,Auburn,WA,98002,(253) 833-1213,3/29/1989,PROD,Renton,(425) 393-1213,PB-21,R-1779,7,"3,130.03",Kaiser Permanente ,Frank Borman,(206) 393-1265
+12147,Klein,Sheila,20202 84Th Ave. S.,Kent,WA,98032,(253) 872-1214,4/12/1989,SALE,Bellevue,(425) 882-1214,HG-12,S-3006,11,"3,866.53",Kaiser Permanente ,Bob Stewart,(206) 882-1590
+12158,Jones,Bonnie,1600 Auburn Way North,Auburn,WA,98002,(253) 833-1215,4/23/1989,PROD,Seattle,(206) 221-1215,QR-19,R-5321,2,"2,209.44",Kaiser WA,Bill Harrison,(206) 221-2205
+12168,Grover,Dennis,1520 Sw Grady Way,Renton,WA,98055,(425) 227-1216,5/3/1989,ENGR,Renton,(425) 393-1216,XJ-67,E-1089,8,"3,314.16",Kaiser WA,Dave Morgan,(206) 393-2002
+12196,Peterson,George,3002 Lind Ave. Sw,Renton,WA,98055,(425) 227-1219,5/31/1989,PROD,Renton,(425) 393-1219,PB-21,R-1779,8,"3,314.16",Regence BlueShield ,Frank Borman,(206) 393-1265
+12215,Cort,Roberta,"515 W. Harrison, #125",Kent,WA,98032,(253) 872-1221,6/19/1989,PROD,Seattle,(206) 221-1221,QR-07,R-2661,5,"2,761.79",Regence BlueShield ,Eleanor Lancaster,(206) 221-1124
+12224,DeCosta,Wally,5720 South 296Th Pl.,Auburn,WA,98001,(253) 833-1222,6/28/1989,PROD,Renton,(425) 393-1222,PB-21,R-1779,5,"2,761.79",Kaiser WA,Frank Borman,(206) 393-1265
+12244,Apperly,Ward,19808 W. Valley Hwy.,Kent,WA,98032,(253) 872-1224,7/18/1989,PROD,Renton,(425) 393-1224,PB-14,R-1779,8,"3,314.16",Kaiser WA,Molly Goldberg,(206) 393-1513
+12255,Sievers,Harriet,1300 Bronson Way N.,Renton,WA,98055,(425) 227-1225,7/29/1989,PROD,Seattle,(206) 221-1225,QR-35,R-2661,8,"3,314.16",Regence BlueShield ,Marsha Mosley,(206) 221-1975
+12257,Berry,Frank,22005 84Th Ave. S.,Kent,WA,98032,(253) 872-1225,7/31/1989,SALE,Bellevue,(425) 882-1225,HG-12,S-3006,13,"4,234.75",Regence BlueShield ,Bob Stewart,(206) 882-1590
+12278,Gribben,David,"4507 Pacific Hwy. E, #A-2",Tacoma,WA,98424,(360) 575-1227,8/21/1989,ENGR,Renton,(425) 393-1227,XJ-67,E-1089,13,"4,234.75",Regence BlueShield ,Dave Morgan,(206) 393-2002
+12287,Cato,Anthony,1216 N. 4Th Ave.,Kent,WA,98032,(253) 872-1228,8/30/1989,SALE,Bellevue,(425) 882-1228,HG-12,S-3006,14,"4,418.88",Kaiser Permanente ,Bob Stewart,(206) 882-1590
+12370,Arthur,Diane,7710 Lake Washington Blvd. Se,Renton,WA,98056,(425) 226-1237,11/21/1989,MKTG,Bellevue,(425) 882-1237,RL-27,M-1211,20,"5,523.60",Regence BlueShield ,Wes Adams,(206) 221-1958
+12375,Tracy,Jean,200 Mill Ave. S.,Renton,WA,98055,(425) 227-1237,11/26/1989,PROD,Seattle,(206) 221-1237,QR-10,R-2661,12,"4,050.64",Kaiser WA,Peggy Kramer,(206) 221-2083
+12461,Leonhardt,Lowell,12510 Se Petrovitsky Rd.,Renton,WA,98058,(425) 226-1246,2/20/1990,PROD,Renton,(425) 393-1246,PB-18,R-1779,19,"5,339.47",Kaiser WA,Frank Sullivan,(206) 393-1000
+12466,Hartman,Helen,122 3Rd St. Ne,Auburn,WA,98002,(253) 833-1246,2/25/1990,PROD,Seattle,(206) 221-1246,QR-10,R-2661,8,"3,314.16",Regence BlueShield ,Peggy Kramer,(206) 221-2083
+12471,Howard,Paul,1619 Auburn Way North,Auburn,WA,98002,(253) 833-1247,3/2/1990,PROD,Seattle,(206) 221-1247,QR-12,R-2661,5,"2,761.79",Regence BlueShield ,Harry Hillis,(206) 221-2179
+12525,Weston,Albert,2702 West Valley Hwy. North,Auburn,WA,98001,(253) 833-1252,4/25/1990,PROD,Seattle,(206) 221-1252,QR-12,R-2661,19,"5,339.47",Kaiser WA,Harry Hillis,(206) 221-2179
+12550,Costello,John,238 8Th St. Se,Auburn,WA,98002,(253) 833-1255,5/20/1990,MKTG,Bellevue,(425) 882-1255,RL-27,M-1211,1,"2,025.33",Kaiser WA,Bob Shavers,(206) 882-1281
+12655,Borman,Frank,25815 111Th Ave. S.E.,Kent,WA,98031,(253) 872-1265,9/2/1990,PROD,Renton,(425) 393-1265,PB-21,R-1779,20,"5,523.60",Kaiser Permanente ,Wes Adams,(206) 221-1958
+12672,Ewing,Robert,4000 Maple Valley Hwy.,Renton,WA,98058,(425) 226-1267,9/19/1990,ACCT,Seattle,(206) 221-1267,BX-45,A-1834,15,"4,603.01",Kaiser Permanente ,Val Johnson,(206) 221-1958
+12677,Gray,James,7601 S. 190Th,Kent,WA,98032,(253) 872-1267,9/24/1990,SALE,Bellevue,(425) 882-1267,HG-12,S-3006,11,"3,866.53",Regence BlueShield ,Bob Stewart,(206) 882-1590
+12699,Diaz,Carol,14719 S.E. 272Nd Street,Kent,WA,98042,(253) 872-1269,10/16/1990,PROD,Seattle,(206) 221-1269,QR-19,R-5321,18,"5,155.36",Regence BlueShield ,Bill Harrison,(206) 221-2205
+12752,Giles,Peter,18821 90Th Ave. S.,Kent,WA,98031,(253) 872-1275,12/8/1990,ACCT,Seattle,(206) 221-1275,BX-45,A-1834,11,"3,866.53",Kaiser WA,Val Johnson,(206) 221-1958
+12810,Shavers,Robert,14413 Se 128Th,Renton,WA,98056,(425) 226-1281,2/4/1991,MKTG,Bellevue,(425) 882-1281,RL-27,M-1211,18,"5,155.36",Kaiser WA,Diane Arthur,(206) 882-1237
+12957,Ward,Candy,5869 S. 194Th,Kent,WA,98032,(253) 872-1295,7/1/1991,SALE,Bellevue,(425) 882-1295,HG-12,S-3006,12,"4,050.64",Kaiser WA,Bob Stewart,(206) 882-1590
+13001,Roth,Bill,22230 Russell Rd.,Kent,WA,98032,(253) 872-1300,8/14/1991,PROD,Seattle,(206) 221-1300,QR-12,R-2661,18,"5,155.36",Regence BlueShield ,Harry Hillis,(206) 221-2179
+13007,Covello,Charlotte,1833 Auburn N Ste. B,Auburn,WA,98002,(253) 833-1300,8/20/1991,SALE,Bellevue,(425) 882-1300,HG-12,S-3006,15,"4,603.01",Regence BlueShield ,Bob Stewart,(206) 882-1590
+13040,Reynolds,Jonathan,1000 Sw 7Th St.,Renton,WA,98055,(425) 227-1304,9/22/1991,MKTG,Bellevue,(425) 882-1304,RL-27,M-1211,18,"5,155.36",Kaiser Permanente ,Diane Arthur,(206) 882-1237
+13048,Horton,Bart,3501 C St. Ne,Auburn,WA,98002,(253) 833-1304,9/30/1991,PROD,Renton,(425) 393-1304,PB-18,R-1779,16,"4,787.12",Regence BlueShield ,Frank Sullivan,(206) 393-1000
+13066,Kalman,Donna,3941 B Street,Auburn,WA,98001,(253) 833-1306,10/18/1991,PROD,Renton,(425) 393-1306,PB-21,R-1779,15,"4,603.01",Regence BlueShield ,Frank Borman,(206) 393-1265
+13067,Kowalski,John,1212 Dayton Ave. Ne,Renton,WA,98056,(425) 226-1306,10/19/1991,SALE,Bellevue,(425) 882-1306,HG-12,S-3006,9,"3,498.27",Regence BlueShield ,Bob Stewart,(206) 882-1590
+13070,Vaughn,Carole,3401 Auburn Way North,Auburn,WA,98002,(253) 833-1307,10/22/1991,MKTG,Bellevue,(425) 882-1307,RL-27,M-1211,8,"3,314.16",Regence BlueShield ,Barry Slatta,(206) 882-2246
+13077,Hegarty,Sharon,19015 66Th Ave. S.,Kent,WA,98032,(253) 872-1307,10/29/1991,SALE,Bellevue,(425) 882-1307,HG-12,S-3006,5,"2,761.79",Regence BlueShield ,Bob Stewart,(206) 882-1590
+13255,Blair,Carolyn,1813 Howard Rd.,Auburn,WA,98002,(253) 833-1325,4/24/1992,ENGR,Renton,(425) 393-1325,XJ-67,E-1089,15,"4,603.01",Kaiser WA,Dave Morgan,(206) 393-2002
+13343,Simpson,Paul,3290 B. St.,Auburn,WA,98001,(253) 833-1334,7/21/1992,PROD,Seattle,(206) 221-1334,QR-12,R-2661,1,"2,025.33",Kaiser WA,Harry Hillis,(206) 221-2179
+13346,Collins,Nancy,1411 R St. Nw,Auburn,WA,98001,(253) 833-1334,7/24/1992,PROD,Renton,(425) 393-1334,PB-21,R-1779,5,"2,761.79",Regence BlueShield ,Frank Borman,(206) 393-1265
+13348,Schneider,Chris,25414 104Th Ave. S.E.,Kent,WA,98031,(253) 872-1334,7/26/1992,ENGR,Renton,(425) 393-1334,XJ-67,E-1089,15,"4,603.01",Regence BlueShield ,Dave Morgan,(206) 393-2002
+13410,Hagman,Margo,20 Auburn Way South,Auburn,WA,98002,(253) 833-1341,9/26/1992,MKTG,Bellevue,(425) 882-1341,RL-27,M-1211,2,"2,209.44",Regence BlueShield ,Jon Reynolds,(206) 882-304
+13564,Nicholson,Harold,550 Sw 7Th,Renton,WA,98055,(425) 227-1356,2/27/1993,PROD,Renton,(425) 393-1356,PB-14,R-1779,11,"3,866.53",Regence BlueShield ,Molly Goldberg,(206) 393-1513
+13666,Purcell,Paul,22911 86Th Ave. S.,Kent,WA,98031,(253) 872-1366,6/9/1993,PROD,Seattle,(206) 221-1366,QR-19,R-5321,5,"2,761.79",Regence BlueShield ,Bill Harrison,(206) 221-2205
+13668,Jarrett,Lynn,345 Union Ave. Ne,Renton,WA,98056,(425) 226-1366,6/11/1993,PROD,Seattle,(206) 221-1366,QR-27,R-2661,20,"5,523.60",Regence BlueShield ,Wes Adams,(206) 221-1958
+13751,Hildermann,Don,448 W. Main St.,Auburn,WA,98001,(253) 833-1375,9/2/1993,PROD,Seattle,(206) 221-1375,QR-27,R-2661,10,"3,682.40",Kaiser Permanente ,Lynn Jarret,(206) 221-1366
+13895,Pierce,Sam,1037 Thomas Ave. Sw,Renton,WA,98055,(425) 227-1389,1/24/1994,PROD,Seattle,(206) 221-1389,QR-06,R-5321,3,"2,393.57",Kaiser WA,Joe Stone,(206) 221-2252
+13989,Lewis,John,22257 W. Valley Hwy.,Kent,WA,98032,(253) 872-1398,4/28/1994,PROD,Renton,(425) 393-1398,PB-21,R-1779,15,"4,603.01",Kaiser WA,Frank Borman,(206) 393-1265
+14082,Farmer,Lou,232 C St. Nw,Auburn,WA,98001,(253) 833-1408,7/30/1994,ACCT,Seattle,(206) 221-1408,BX-45,A-1834,8,"3,314.16",Regence BlueShield ,Val Johnson,(206) 221-1958
+14084,Taft,Jerry,21202 Pacific Hwy. S.,Des Moines,WA,98027,(253) 775-1408,8/1/1994,PROD,Renton,(425) 393-1408,PB-18,R-1779,15,"4,603.01",Regence BlueShield ,Frank Sullivan,(206) 393-1000
+14219,Bates,Eileen,701 15Th Sw,Auburn,WA,98001,(253) 833-1421,12/14/1994,PROD,Seattle,(206) 221-1421,QR-31,R-5321,7,"3,130.03",Kaiser WA,Bob Irwin,(206) 221-1549
+14249,Ferris,Cindy,"9725 3Rd N.E., #400",Seattle,WA,98115,(206) 452-1424,1/13/1995,ENGR,Renton,(425) 393-1424,XJ-67,E-1089,12,"4,050.64",Kaiser Permanente ,Dave Rogers,(206) 393-1973
+14306,Heinemann,Donald,13020 Lake Kathleen Rd. Se,Renton,WA,98056,(425) 226-1430,3/11/1995,PROD,Seattle,(206) 221-1430,QR-31,R-5321,14,"4,418.88",Regence BlueShield ,Bob Irwin,(206) 221-1549
+14385,Cullen,Bruce,112 3Rd St. Nw,Auburn,WA,98002,(253) 833-1438,5/29/1995,PROD,Seattle,(206) 221-1438,QR-07,R-2661,18,"5,155.36",Regence BlueShield ,Eleanor Lancaster,(206) 221-1124
+14441,Corcoran,Joyce,1420 Auburn Way South,Auburn,WA,98002,(253) 833-1444,7/24/1995,PROD,Renton,(425) 393-1444,PB-21,R-1779,2,"2,209.44",Regence BlueShield ,Frank Borman,(206) 393-1265
+14456,Parks,Vickie,941 Powell Ave. Sw Ste. 100,Renton,WA,98055,(425) 227-1445,8/8/1995,PROD,Seattle,(206) 221-1445,QR-06,R-5321,8,"3,314.16",Regence BlueShield ,Joe Stone,(206) 221-2252
+14473,Lansing,Elaine,10432 Kent-Kangley,Kent,WA,98031,(253) 872-1447,8/25/1995,PROD,Seattle,(206) 221-1447,QR-06,R-5321,17,"4,971.25",Kaiser Permanente ,Joe Stone,(206) 221-2252
+14665,Erickson,Ron,15 S. Grady Way,Renton,WA,98055,(425) 227-1466,3/4/1996,PROD,Seattle,(206) 221-1466,QR-06,R-5321,12,"4,050.64",Regence BlueShield ,Joe Stone,(206) 221-2252
+14666,Buchanan,Kevin,299 Rainier Ave S.,Renton,WA,98055,(425) 227-1466,3/4/1996,PROD,Seattle,(206) 221-1466,QR-12,R-2661,2,"2,209.44",Regence BlueShield ,Harry Hillis,(206) 221-2179
+14731,Spencer,Julia,239 Sw 41St Bldg. 11,Renton,WA,98055,(425) 227-1473,5/9/1996,PROD,Renton,(425) 393-1473,PB-21,R-1779,19,"5,339.47",Kaiser WA,Frank Borman,(206) 393-1265
+14750,Cleveland,Patricia,60 S. Grady Way,Renton,WA,98055,(425) 227-1475,5/28/1996,MKTG,Bellevue,(425) 882-1475,RL-27,M-1211,15,"4,603.01",Regence BlueShield ,Jon Reynolds,(206) 882-304
+14783,Olmstead,Ann,200 Sw 16Th,Renton,WA,98055,(425) 227-1478,6/30/1996,PROD,Seattle,(206) 221-1478,QR-19,R-5321,1,"2,025.33",Kaiser WA,Bill Harrison,(206) 221-2205
+14809,Jenkins,Angela,3915 Talbot Rd. S. Ste. 209,Renton,WA,98055,(425) 227-1480,7/26/1996,PROD,Seattle,(206) 221-1480,QR-27,R-2661,1,"2,025.33",Regence BlueShield ,Lynn Jarret,(206) 221-1366
+14875,Ford,Jean,21229 84Th Avenue S.,Kent,WA,98032,(253) 872-1487,9/30/1996,PROD,Seattle,(206) 221-1487,QR-31,R-5321,1,"2,025.33",Regence BlueShield ,Bob Irwin,(206) 221-1549
+14905,Grout,Patricia,14410 Se Petrovitsky,Renton,WA,98058,(425) 226-1490,10/30/1996,PROD,Renton,(425) 393-1490,PB-18,R-1779,5,"2,761.79",Regence BlueShield ,Frank Sullivan,(206) 393-1000
+14921,Corbett,Jessica,17220 140Th Se,Renton,WA,98058,(425) 226-1492,11/15/1996,PROD,Renton,(425) 393-1492,PB-14,R-1779,19,"5,339.47",Regence BlueShield ,Molly Goldberg,(206) 393-1513
+14950,Monroe,Jon,516 Kenosia,Kent,WA,98031,(253) 872-1495,12/14/1996,MKTG,Bellevue,(425) 882-1495,RL-27,M-1211,8,"3,314.16",Kaiser WA,Jon Reynolds,(206) 882-304
+14995,Turner,Maureen,4108 Jones Ave. Ne,Renton,WA,98056,(425) 226-1499,1/28/1997,PROD,Seattle,(206) 221-1499,QR-19,R-5321,19,"5,339.47",Kaiser WA,Bill Harrison,(206) 221-2205
+14997,Tolbert,Mike,3220 B St. Se,Auburn,WA,98002,(253) 833-1499,1/30/1997,SALE,Bellevue,(425) 882-1499,HG-12,S-3006,5,"2,761.79",Kaiser WA,Bob Stewart,(206) 882-1590
+15002,Johnson,Valerie,626-B Industry Dr.,Seattle,WA,98188,(206) 452-1500,2/4/1997,ACCT,Seattle,(206) 221-1500,BX-45,A-1834,20,"5,523.60",Kaiser WA,Wes Adams,(206) 221-1958
+15035,Mosher,Donna,201 Wells Ave. S.,Renton,WA,98055,(425) 227-1503,3/9/1997,PROD,Seattle,(206) 221-1503,QR-07,R-2661,8,"3,314.16",Regence BlueShield ,Eleanor Lancaster,(206) 221-1124
+15131,Goldberg,Molly,105 1St St. Ne,Auburn,WA,98002,(253) 833-1513,6/13/1997,PROD,Renton,(425) 393-1513,PB-14,R-1779,20,"5,523.60",Regence BlueShield ,Wes Adams,(206) 221-1958
+15144,Gerson,James,2415 Auburn Way North,Auburn,WA,98002,(253) 833-1514,6/26/1997,PROD,Seattle,(206) 221-1514,QR-31,R-5321,9,"3,498.27",Kaiser WA,Bob Irwin,(206) 221-1549
+15177,Reynolds,Richard,711 Powell Ave. Sw,Renton,WA,98055,(425) 227-1517,7/29/1997,SALE,Bellevue,(425) 882-1517,HG-12,S-3006,15,"4,603.01",Regence BlueShield ,Bob Stewart,(206) 882-1590
+15179,Brown,Dave,444 Park Ave. N.,Renton,WA,98055,(425) 227-1517,7/31/1997,ENGR,Renton,(425) 393-1517,XJ-67,E-1089,14,"4,418.88",Regence BlueShield ,Dave Morgan,(206) 393-2002
+15235,Bennington,Paul,17425 120Th Lane Se,Renton,WA,98058,(425) 226-1523,9/25/1997,PROD,Renton,(425) 393-1523,PB-21,R-1779,1,"2,025.33",Regence BlueShield ,Frank Borman,(206) 393-1265
+15294,Shelley,Wayne,"25230 Pacific Hwy., S.",Kent,WA,98032,(253) 872-1529,11/23/1997,PROD,Seattle,(206) 221-1529,QR-07,R-2661,2,"2,209.44",Kaiser WA,Eleanor Lancaster,(206) 221-1124
+15373,Cohen,Mary,2500 Lake Washington Blvd. Nor,Renton,WA,98056,(425) 226-1537,2/10/1998,PROD,Renton,(425) 393-1537,PB-14,R-1779,6,"2,945.92",Kaiser WA,Molly Goldberg,(206) 393-1513
+15453,Shepard,Dan,37201 Military Rd. South,Auburn,WA,98001,(253) 833-1545,5/1/1998,ENGR,Renton,(425) 393-1545,XJ-67,E-1089,8,"3,314.16",Kaiser WA,Dave Rogers,(206) 393-1973
+15499,Irwin,Bob,941 Powell Ave. Sw Ste. 109,Renton,WA,98055,(425) 227-1549,6/16/1998,PROD,Seattle,(206) 221-1549,QR-31,R-5321,20,"5,523.60",Regence BlueShield ,Wes Adams,(206) 221-1958
+15515,Gallagher,Kay,222 A Se,Auburn,WA,98002,(253) 833-1551,7/2/1998,PROD,Renton,(425) 393-1551,PB-21,R-1779,1,"2,025.33",Kaiser WA,Frank Borman,(206) 393-1265
+15516,Walker,William,500 26Th Ne,Auburn,WA,98002,(253) 833-1551,7/2/1998,PROD,Seattle,(206) 221-1551,QR-07,R-2661,18,"5,155.36",Kaiser WA,Eleanor Lancaster,(206) 221-1124
+15529,Ferraro,Dorothy,307 S. Central Ave.,Kent,WA,98032,(253) 872-1552,7/16/1998,PROD,Renton,(425) 393-1552,PB-14,R-1779,2,"2,209.44",Kaiser WA,Molly Goldberg,(206) 393-1513
+15600,Howard,Robert,2802 Auburn Way North,Auburn,WA,98002,(253) 833-1560,9/25/1998,MKTG,Bellevue,(425) 882-1560,RL-27,M-1211,11,"3,866.53",Regence BlueShield ,Barry Slatta,(206) 882-2246
+15602,Perkins,Leslie,17900 Talbot Rd. S.,Renton,WA,98055,(425) 227-1560,9/27/1998,ACCT,Seattle,(206) 221-1560,BX-45,A-1834,3,"2,393.57",Regence BlueShield ,Val Johnson,(206) 221-1958
+15604,Barnes,Fannie,12565 Se Green Valley Rd.,Auburn,WA,98002,(253) 833-1560,9/29/1998,PROD,Renton,(425) 393-1560,PB-21,R-1779,11,"3,866.53",Regence BlueShield ,Frank Borman,(206) 393-1265
+15608,Montrose,Charlie,275 Bronson Way Ne,Renton,WA,98056,(425) 226-1560,10/3/1998,ENGR,Renton,(425) 393-1560,XJ-67,E-1089,7,"3,130.03",Regence BlueShield ,Dave Rogers,(206) 393-1973
+15833,Flores,Dick,1800 One Union Square,Seattle,WA,98101,(206) 452-1583,5/16/1999,PROD,Seattle,(206) 221-1583,QR-07,R-2661,17,"4,971.25",Kaiser WA,Eleanor Lancaster,(206) 221-1124
+15845,Nance,Valerie,102 Lake Ave. S.,Renton,WA,98055,(425) 227-1584,5/28/1999,PROD,Seattle,(206) 221-1584,QR-12,R-2661,18,"5,155.36",Regence BlueShield ,Harry Hillis,(206) 221-2179
+15897,Finch,Donna,1507 S. Central Ave.,Kent,WA,98032,(253) 872-1589,7/19/1999,SALE,Bellevue,(425) 882-1589,HG-12,S-3006,18,"5,155.36",Kaiser WA,Bob Stewart,(206) 882-1590
+15906,Schmidt,Mary,960 E Main St.,Auburn,WA,98002,(253) 833-1590,7/28/1999,PROD,Seattle,(206) 221-1590,QR-19,R-5321,6,"2,945.92",Regence BlueShield ,Bill Harrison,(206) 221-2205
+15907,Stewart,Robert,760 Thomas Ave. Sw,Renton,WA,98055,(425) 227-1590,7/29/1999,SALE,Bellevue,(425) 882-1590,HG-12,S-3006,20,"5,523.60",Regence BlueShield ,Diane Arthur,(206) 882-1237
+15943,Moorman,Janice,1415 North 24Th,Renton,WA,98056,(425) 226-1594,9/3/1999,PROD,Seattle,(206) 221-1594,QR-27,R-2661,19,"5,339.47",Kaiser Permanente ,Lynn Jarret,(206) 221-1366
+15992,Thompson,Tom,2838 Ne Sunset Blvd.,Renton,WA,98056,(425) 226-1599,10/22/1999,ACCT,Seattle,(206) 221-1599,BX-45,A-1834,18,"5,155.36",Regence BlueShield ,Val Johnson,(206) 221-1958
+16023,Woodley,Francis,3202 C St. Ne,Auburn,WA,98002,(253) 833-1602,11/22/1999,PROD,Seattle,(206) 221-1602,QR-35,R-2661,14,"4,418.88",Regence BlueShield ,Marsha Mosley,(206) 221-1975
+16057,Barnum,Adrian,4430 Talbot Rd. S.,Renton,WA,98055,(425) 227-1605,12/26/1999,SALE,Bellevue,(425) 882-1605,HG-12,S-3006,5,"2,761.79",Kaiser Permanente ,Bob Stewart,(206) 882-1590
+16118,Preston,Ken,2595 Auburn Way North,Auburn,WA,98002,(253) 833-1611,2/25/2000,PROD,Seattle,(206) 221-1611,QR-12,R-2661,6,"2,945.92",Regence BlueShield ,Harry Hillis,(206) 221-2179
+16237,Fisher,Scott,3016 Auburn Way North,Auburn,WA,98002,(253) 833-1623,6/23/2000,SALE,Bellevue,(425) 882-1623,HG-12,S-3006,6,"2,945.92",Kaiser WA,Bob Stewart,(206) 882-1590
+16240,Crowe,Dan,4150 Lind Ave. Sw,Renton,WA,98055,(425) 227-1624,6/26/2000,MKTG,Bellevue,(425) 882-1624,RL-27,M-1211,1,"2,025.33",Kaiser WA,Barry Slatta,(206) 882-2246
+16332,Fairchild,Earl,1809 Howard Rd.,Auburn,WA,98002,(253) 833-1633,9/26/2000,ACCT,Renton,(425) 393-1633,BB-27,A-1834,7,"3,130.03",Regence BlueShield ,Barbara Carrera,(206) 393-2000
+16519,Kennedy,Phyllis,15 S. Grady Way,Renton,WA,98055,(425) 227-1651,4/1/2001,PROD,Renton,(425) 393-1651,PB-14,R-1779,8,"3,314.16",Kaiser Permanente ,Molly Goldberg,(206) 393-1513
+16545,Longo,Roger,1520 Sw Grady Way,Renton,WA,98055,(425) 227-1654,4/27/2001,PROD,Renton,(425) 393-1654,PB-18,R-1779,19,"5,339.47",Kaiser WA,Frank Sullivan,(206) 393-1000
+16565,Joyce,Darryl,1600 Sw 43Rd,Renton,WA,98055,(425) 227-1656,5/17/2001,ENGR,Renton,(425) 393-1656,XJ-67,E-1089,18,"5,155.36",Kaiser WA,Dave Morgan,(206) 393-2002
+16668,Burstein,Steve,4224 East Valley Hwy.,Renton,WA,98055,(425) 227-1666,8/28/2001,PROD,Renton,(425) 393-1666,PB-14,R-1779,2,"2,209.44",Kaiser Permanente ,Molly Goldberg,(206) 393-1513
+16698,Roosevelt,John,1800 Duvall Ave. Ne,Renton,WA,98056,(425) 226-1669,9/27/2001,PROD,Seattle,(206) 221-1669,QR-31,R-5321,10,"3,682.40",Regence BlueShield ,Bob Irwin,(206) 221-1549
+16703,Channing,Carolyn,8223 S. 222Nd,Kent,WA,98032,(253) 872-1670,10/2/2001,PROD,Seattle,(206) 221-1670,QR-10,R-2661,15,"4,603.01",Regence BlueShield ,Peggy Kramer,(206) 221-2083
+17123,Watkins,Rose,60 37Th St. Ne,Auburn,WA,98002,(253) 833-1712,11/26/2002,PROD,Seattle,(206) 221-1712,QR-27,R-2661,5,"2,761.79",Kaiser WA,Lynn Jarret,(206) 221-1366
+17419,Gifford,Al,"1314 S. Central Ave., #200",Kent,WA,98032,(253) 872-1741,9/18/2003,PROD,Renton,(425) 393-1741,PB-14,R-1779,12,"4,050.64",Kaiser Permanente ,Molly Goldberg,(206) 393-1513
+17488,Morris,Fred,723 Sw 10Th St.,Renton,WA,98055,(425) 227-1748,11/26/2003,PROD,Seattle,(206) 221-1748,QR-12,R-2661,8,"3,314.16",Kaiser WA,Harry Hillis,(206) 221-2179
+17499,Martin,Carol,311 S. Washington,Kent,WA,98032,(253) 872-1749,12/7/2003,PROD,Seattle,(206) 221-1749,QR-31,R-5321,19,"5,339.47",Kaiser WA,Bob Irwin,(206) 221-1549
+17516,Davidson,Katharine,"6845 S. 220, Bldg. D",Kent,WA,98032,(253) 872-1751,12/24/2003,PROD,Seattle,(206) 221-1751,QR-06,R-5321,12,"4,050.64",Kaiser Permanente ,Joe Stone,(206) 221-2252
+17575,Snyder,Ted,3001 East Valley Hwy.,Renton,WA,98055,(425) 227-1757,2/21/2004,PROD,Renton,(425) 393-1757,PB-21,R-1779,8,"3,314.16",Kaiser WA,Frank Borman,(206) 393-1265
+17576,Harper,Rita,1410 North 30Th,Renton,WA,98056,(425) 226-1757,2/21/2004,PROD,Seattle,(206) 221-1757,QR-31,R-5321,5,"2,761.79",Kaiser WA,Bob Irwin,(206) 221-1549
+17606,Webb,Richard,1234 Central Ave. N.,Kent,WA,98032,(253) 872-1760,3/23/2004,PROD,Renton,(425) 393-1760,PB-21,R-1779,11,"3,866.53",Regence BlueShield ,Frank Borman,(206) 393-1265
+17823,Hoffman,Rita,3605 132Nd Ave. S.E. #300,Bellevue,WA,98006,(425) 775-1782,10/26/2004,PROD,Seattle,(206) 221-1782,QR-35,R-2661,19,"5,339.47",Regence BlueShield ,Marsha Mosley,(206) 221-1975
+17960,Thompson,Douglas,640 S. Central Ave.,Kent,WA,98032,(253) 872-1796,3/12/2005,MKTG,Bellevue,(425) 882-1796,RL-27,M-1211,11,"3,866.53",Regence BlueShield ,Jon Reynolds,(206) 882-304
+17996,Barker,William,930 E. James St.,Kent,WA,98031,(253) 872-1799,4/17/2005,PROD,Seattle,(206) 221-1799,QR-19,R-5321,8,"3,314.16",Kaiser Permanente ,Bill Harrison,(206) 221-2205
+18085,Stevens,Judith,130 37Th St. Ne,Auburn,WA,98002,(253) 833-1808,7/15/2005,PROD,Renton,(425) 393-1808,PB-14,R-1779,10,"3,682.40",Kaiser WA,Molly Goldberg,(206) 393-1513
+18093,Erickson,Lauren,1435 Se 322Nd Pl.,Auburn,WA,98002,(253) 833-1809,7/23/2005,PROD,Seattle,(206) 221-1809,QR-06,R-5321,15,"4,603.01",Kaiser WA,Joe Stone,(206) 221-2252
+18160,Brandon,Bill,12886 Interurban,Seattle,WA,98168,(206) 452-1816,9/28/2005,MKTG,Bellevue,(425) 882-1816,RL-27,M-1211,14,"4,418.88",Regence BlueShield ,Jon Reynolds,(206) 882-304
+18166,Grant,Harry,240 Auburn Way S Ste. 1B,Auburn,WA,98002,(253) 833-1816,10/4/2005,PROD,Renton,(425) 393-1816,PB-21,R-1779,12,"4,050.64",Regence BlueShield ,Frank Borman,(206) 393-1265
+18175,Sanders,Carl,1025 S. 3Rd Ste. C,Renton,WA,98055,(425) 227-1817,10/13/2005,PROD,Renton,(425) 393-1817,PB-14,R-1779,15,"4,603.01",Regence BlueShield ,Molly Goldberg,(206) 393-1513
+18218,Tyson,Thomas,401 Lund Rd.,Auburn,WA,98001,(253) 833-1821,11/25/2005,PROD,Renton,(425) 393-1821,PB-18,R-1779,15,"4,603.01",Kaiser WA,Frank Sullivan,(206) 393-1000
+18249,McDonald,Ronald,3330 E. Valley Rd.,Renton,WA,98055,(425) 227-1824,12/26/2005,PROD,Seattle,(206) 221-1824,QR-07,R-2661,6,"2,945.92",Kaiser Permanente ,Eleanor Lancaster,(206) 221-1124
+18279,Davis,Oscar,271 Rainier Ave. North,Renton,WA,98055,(425) 227-1827,1/25/2006,PROD,Renton,(425) 393-1827,PB-14,R-1779,5,"2,761.79",Kaiser WA,Molly Goldberg,(206) 393-1513
+18308,Parks,Lois,13324 302Nd Pl. Se,Auburn,WA,98002,(253) 833-1830,2/23/2006,PROD,Seattle,(206) 221-1830,QR-27,R-2661,13,"4,234.75",Regence BlueShield ,Lynn Jarret,(206) 221-1366
+18399,Oates,Buddy,3172 Ne Sunset Blvd.,Renton,WA,98056,(425) 226-1839,5/25/2006,PROD,Renton,(425) 393-1839,PB-18,R-1779,9,"3,498.27",Regence BlueShield ,Frank Sullivan,(206) 393-1000
+18411,Svenson,Victoria,525 C St. Nw,Auburn,WA,98001,(253) 833-1841,6/7/2006,PROD,Renton,(425) 393-1841,PB-18,R-1779,13,"4,234.75",Regence BlueShield ,Frank Sullivan,(206) 393-1000
+18412,Isaacs,Rick,73 Burnett Ave. South,Renton,WA,98055,(425) 227-1841,6/7/2006,ACCT,Renton,(425) 393-1841,BB-27,A-1834,4,"2,577.68",Regence BlueShield ,Barbara Carrera,(206) 393-2000
+18510,Browne,Marilyn,1216 6Th Ave. N.,Kent,WA,98032,(253) 872-1851,9/13/2006,MKTG,Bellevue,(425) 882-1851,RL-27,M-1211,9,"3,498.27",Kaiser Permanente ,Jon Reynolds,(206) 882-304
+18572,Henderson,Peter,715 S. 3Rd St.,Renton,WA,98055,(425) 227-1857,11/14/2006,ACCT,Seattle,(206) 221-1857,BX-45,A-1834,10,"3,682.40",Regence BlueShield ,Val Johnson,(206) 221-1958
+18765,West,John,1001 C St. Sw,Auburn,WA,98001,(253) 833-1876,5/26/2007,PROD,Renton,(425) 393-1876,PB-21,R-1779,15,"4,603.01",Regence BlueShield ,Frank Borman,(206) 393-1265
+18796,Bush,Julie,2925 Auburn Way North,Auburn,WA,98002,(253) 833-1879,6/26/2007,PROD,Seattle,(206) 221-1879,QR-19,R-5321,18,"5,155.36",Kaiser WA,Bill Harrison,(206) 221-2205
+18803,Meredith,Patricia,13224 160Th Ave Se,Renton,WA,98056,(425) 226-1880,7/3/2007,PROD,Seattle,(206) 221-1880,QR-35,R-2661,5,"2,761.79",Kaiser WA,Marsha Mosley,(206) 221-1975
+18870,Hudson,Joyce,710 S. 2Nd,Renton,WA,98055,(425) 227-1887,9/8/2007,MKTG,Bellevue,(425) 882-1887,RL-27,M-1211,7,"3,130.03",Kaiser Permanente ,Bob Shavers,(206) 882-1281
+18943,Carvallo,Joe,24830 136Th Ave. S.E.,Kent,WA,98042,(253) 872-1894,11/20/2007,PROD,Renton,(425) 393-1894,PB-18,R-1779,8,"3,314.16",Regence BlueShield ,Frank Sullivan,(206) 393-1000
+19009,Green,Milt,13306 S.E. 240Th,Kent,WA,98042,(253) 872-1900,1/25/2008,PROD,Seattle,(206) 221-1900,QR-10,R-2661,5,"2,761.79",Kaiser WA,Peggy Kramer,(206) 221-2083
+19038,Smith,Sam,865 Rainier Ave. North #C-100,Renton,WA,98055,(425) 227-1903,2/23/2008,PROD,Renton,(425) 393-1903,PB-14,R-1779,5,"2,761.79",Regence BlueShield ,Molly Goldberg,(206) 393-1513
+19042,Baker,Gerald,6020 S. 190Th,Kent,WA,98032,(253) 872-1904,2/27/2008,ACCT,Seattle,(206) 221-1904,BX-45,A-1834,14,"4,418.88",Regence BlueShield ,Val Johnson,(206) 221-1958
+19073,Foster,Sandra,20848 77Th Ave. S.,Kent,WA,98032,(253) 872-1907,3/29/2008,PROD,Seattle,(206) 221-1907,QR-06,R-5321,15,"4,603.01",Kaiser Permanente ,Joe Stone,(206) 221-2252
+19084,Rice,Ken,717 Auburn Way North,Auburn,WA,98002,(253) 833-1908,4/9/2008,PROD,Renton,(425) 393-1908,PB-18,R-1779,8,"3,314.16",Kaiser Permanente ,Frank Sullivan,(206) 393-1000
+19094,Burton,Ken,240 Sw 43Rd,Renton,WA,98055,(425) 227-1909,4/19/2008,PROD,Seattle,(206) 221-1909,QR-27,R-2661,4,"2,577.68",Kaiser Permanente ,Lynn Jarret,(206) 221-1366
+19109,Foster,Bill,8240 S. 228Th,Kent,WA,98032,(253) 872-1910,5/4/2008,PROD,Renton,(425) 393-1910,PB-14,R-1779,14,"4,418.88",Kaiser WA,Molly Goldberg,(206) 393-1513
+19138,Lynley,Susan,1435 R St. Nw,Auburn,WA,98001,(253) 833-1913,6/2/2008,PROD,Seattle,(206) 221-1913,QR-10,R-2661,14,"4,418.88",Regence BlueShield ,Peggy Kramer,(206) 221-2083
+19216,Jefferson,Vernon,2423 Lind Ave West,Renton,WA,98055,(425) 227-1921,8/19/2008,PROD,Renton,(425) 393-1921,PB-21,R-1779,19,"5,339.47",Regence BlueShield ,Frank Borman,(206) 393-1265
+19283,Burley,Diane,22145 68Th Ave. S.,Kent,WA,98032,(253) 872-1928,10/25/2008,PROD,Seattle,(206) 221-1928,QR-10,R-2661,3,"2,393.57",Regence BlueShield ,Peggy Kramer,(206) 221-2083
+19308,Stevens,Doris,701 A St. Ne,Auburn,WA,98002,(253) 833-1930,11/19/2008,PROD,Renton,(425) 393-1930,PB-18,R-1779,12,"4,050.64",Regence BlueShield ,Frank Sullivan,(206) 393-1000
+19420,Logan,Louise,700 Powell Ave. Sw,Renton,WA,98055,(425) 227-1942,3/11/2009,MKTG,Bellevue,(425) 882-1942,RL-27,M-1211,2,"2,209.44",Regence BlueShield ,Bob Shavers,(206) 882-1281
+19444,Newman,George,39015 172Nd Se,Auburn,WA,98002,(253) 833-1944,4/4/2009,PROD,Seattle,(206) 221-1944,QR-35,R-2661,3,"2,393.57",Kaiser Permanente ,Marsha Mosley,(206) 221-1975
+19477,Monroe,Peter,224 G St. Sw,Auburn,WA,98001,(253) 833-1947,5/7/2009,SALE,Bellevue,(425) 882-1947,HG-12,S-3006,5,"2,761.79",Kaiser WA,Bob Stewart,(206) 882-1590
+19535,Wilde,Jack,907 Thomas Sw,Renton,WA,98055,(425) 227-1953,7/4/2009,PROD,Seattle,(206) 221-1953,QR-06,R-5321,5,"2,761.79",Kaiser WA,Joe Stone,(206) 221-2252
+19589,Adams,Wes,3132 C Ne,Auburn,WA,98002,(253) 833-1958,8/27/2009,PROD,Seattle,(206) 221-1958,QR-07,R-2661,22,"5,891.84",Kaiser Permanente ,Susan Buckle,(206) 221-2241
+19596,Greenstein,Lee,3220 B St. Se,Auburn,WA,98002,(253) 833-1959,9/3/2009,PROD,Seattle,(206) 221-1959,QR-27,R-2661,9,"3,498.27",Kaiser Permanente ,Lynn Jarret,(206) 221-1366
+19622,Roberts,Dick,22737 72Nd Ave. S. #C,Kent,WA,98032,(253) 872-1962,9/29/2009,ACCT,Seattle,(206) 221-1962,BX-45,A-1834,15,"4,603.01",Regence BlueShield ,Val Johnson,(206) 221-1958
+19739,Rogers,Dave,502 16Th Ne,Auburn,WA,98002,(253) 833-1973,1/24/2010,ENGR,Renton,(425) 393-1973,XJ-67,E-1089,20,"5,523.60",Kaiser WA,Wes Adams,(206) 221-1958
+19758,Mosley,Marsha,602 Auburn Way South,Auburn,WA,98002,(253) 833-1975,2/12/2010,PROD,Seattle,(206) 221-1975,QR-35,R-2661,20,"5,523.60",Kaiser WA,Wes Adams,(206) 221-1958
+19799,Byrd,John,858 Lind Ave. Sw,Renton,WA,98055,(425) 227-1979,3/25/2010,PROD,Seattle,(206) 221-1979,QR-10,R-2661,15,"4,603.01",Kaiser Permanente ,Peggy Kramer,(206) 221-2083
+19849,Cappa,Steven,333 Rainier Ave. North Ste. 10,Renton,WA,98055,(425) 227-1984,5/14/2010,PROD,Seattle,(206) 221-1984,QR-27,R-2661,18,"5,155.36",Kaiser WA,Lynn Jarret,(206) 221-1366
+19932,Murray,Beverly,7867 S. 180Th St.,Kent,WA,98032,(253) 872-1993,8/5/2010,ACCT,Renton,(425) 393-1993,BB-27,A-1834,3,"2,393.57",Regence BlueShield ,Barbara Carrera,(206) 393-2000
+19948,Parsons,Mitch,301 Grady Way,Renton,WA,98055,(425) 227-1994,8/21/2010,PROD,Seattle,(206) 221-1994,QR-27,R-2661,8,"3,314.16",Regence BlueShield ,Lynn Jarret,(206) 221-1366
+19984,Tyler,Walter,19201 108Th Se,Renton,WA,98055,(425) 227-1998,9/26/2010,PROD,Seattle,(206) 221-1998,QR-10,R-2661,19,"5,339.47",Regence BlueShield ,Peggy Kramer,(206) 221-2083
+19986,Silkwood,Pat,220 8Th St. Se,Auburn,WA,98002,(253) 833-1998,9/28/2010,PROD,Renton,(425) 393-1998,PB-21,R-1779,13,"4,234.75",Regence BlueShield ,Frank Borman,(206) 393-1265
+20002,Carrera,Barbara,15 S. Grady Way,Renton,WA,98055,(425) 227-2000,10/14/2010,ACCT,Renton,(425) 393-2000,BB-27,A-1834,19,"5,339.47",Regence BlueShield ,Wes Adams,(206) 221-1958
+20009,Hayes,Thomas,1425 22Nd St. Nw Ste. E,Auburn,WA,98001,(253) 833-2000,10/21/2010,PROD,Renton,(425) 393-2000,PB-14,R-1779,4,"2,577.68",Regence BlueShield ,Molly Goldberg,(206) 393-1513
+20013,Feinstein,Eric,2220 Auburn Way North,Auburn,WA,98002,(253) 833-2001,10/25/2010,PROD,Renton,(425) 393-2001,PB-14,R-1779,19,"5,339.47",Regence BlueShield ,Molly Goldberg,(206) 393-1513
+20026,Morgan,Dave,2319 Lind Ave. Sw,Renton,WA,98055,(425) 227-2002,11/7/2010,ENGR,Renton,(425) 393-2002,XJ-67,E-1089,20,"5,523.60",Regence BlueShield ,Wes Adams,(206) 221-1958
+20080,Stone,Doris,521 W. Washington Ave.,Kent,WA,98032,(253) 872-2008,12/31/2010,MKTG,Bellevue,(425) 882-2008,RL-27,M-1211,5,"2,761.79",Kaiser Permanente ,Jon Reynolds,(206) 882-304
+20164,Lockwood,Duncan,1701 Pike St. Nw,Auburn,WA,98001,(253) 833-2016,3/25/2011,PROD,Renton,(425) 393-2016,PB-21,R-1779,5,"2,761.79",Kaiser Permanente ,Frank Borman,(206) 393-1265
+20226,Harrigan,Rebecca,1721 W. Valley Hwy. North,Auburn,WA,98001,(253) 833-2022,5/28/2011,PROD,Renton,(425) 393-2022,PB-14,R-1779,12,"4,050.64",Regence BlueShield ,Molly Goldberg,(206) 393-1513
+20228,Erlinger,Robert,1308 W. Main,Auburn,WA,98001,(253) 833-2022,5/28/2011,PROD,Seattle,(206) 221-2022,QR-06,R-5321,5,"2,761.79",Regence BlueShield ,Joe Stone,(206) 221-2252
+20230,Taylor,Ruth,2621 West Valley Hwy. North,Auburn,WA,98001,(253) 833-2023,5/30/2011,MKTG,Bellevue,(425) 882-2023,RL-27,M-1211,11,"3,866.53",Regence BlueShield ,Bob Shavers,(206) 882-1281
+20256,Allen,Susan,17314 140Th Ave Se,Renton,WA,98058,(425) 226-2025,6/25/2011,PROD,Renton,(425) 393-2025,PB-18,R-1779,14,"4,418.88",Kaiser WA,Frank Sullivan,(206) 393-1000
+20286,Astor,Lawrence,916 2Nd,Renton,WA,98055,(425) 227-2028,7/25/2011,PROD,Seattle,(206) 221-2028,QR-10,R-2661,5,"2,761.79",Regence BlueShield ,Peggy Kramer,(206) 221-2083
+20289,Heller,Jeanne,13923 Se Petrovitsky Rd.,Renton,WA,98058,(425) 226-2028,7/28/2011,PROD,Seattle,(206) 221-2028,QR-10,R-2661,12,"4,050.64",Regence BlueShield ,Peggy Kramer,(206) 221-2083
+20350,Folger,William,4350 Lake Washington Blvd. Nor,Renton,WA,98056,(425) 226-2035,9/27/2011,MKTG,Bellevue,(425) 882-2035,RL-27,M-1211,6,"2,945.92",Regence BlueShield ,Barry Slatta,(206) 882-2246
+20377,Forsythe,Frederick,22477 72Nd Ave. S.,Kent,WA,98032,(253) 872-2037,10/24/2011,SALE,Bellevue,(425) 882-2037,HG-12,S-3006,7,"3,130.03",Regence BlueShield ,Bob Stewart,(206) 882-1590
+20393,Wilski,Sandra,1123 Main St.,Auburn,WA,98002,(253) 833-2039,11/9/2011,PROD,Seattle,(206) 221-2039,QR-35,R-2661,10,"3,682.40",Regence BlueShield ,Marsha Mosley,(206) 221-1975
+20563,Ryan,Sara,205 E Main St.,Auburn,WA,98002,(253) 833-2056,5/1/2012,PROD,Seattle,(206) 221-2056,QR-06,R-5321,19,"5,339.47",Kaiser WA,Joe Stone,(206) 221-2252
+20567,Petty,John,1905 Howard Rd.,Auburn,WA,98002,(253) 833-2056,5/1/2012,SALE,Bellevue,(425) 882-2056,HG-12,S-3006,9,"3,498.27",Kaiser WA,Bob Stewart,(206) 882-1590
+20594,Robinson,Jan,909 S. 3Rd,Renton,WA,98055,(425) 227-2059,5/28/2012,PROD,Seattle,(206) 221-2059,QR-35,R-2661,15,"4,603.01",Regence BlueShield ,Marsha Mosley,(206) 221-1975
+20614,Goodman,Sharon,255 East F St.,Redmond,WA,98053,(425) 226-2061,6/17/2012,PROD,Renton,(425) 393-2061,PB-14,R-1779,4,"2,577.68",Regence BlueShield ,Molly Goldberg,(206) 393-1513
+20619,Wayne,Beverly,4308 S 278 St.,Auburn,WA,98001,(253) 833-2061,6/22/2012,PROD,Renton,(425) 393-2061,PB-18,R-1779,10,"3,682.40",Regence BlueShield ,Frank Sullivan,(206) 393-1000
+20620,Dugan,Maryanne,351 Union Ave. Ne,Renton,WA,98056,(425) 226-2062,6/23/2012,MKTG,Bellevue,(425) 882-2062,RL-27,M-1211,12,"4,050.64",Kaiser WA,Bob Shavers,(206) 882-1281
+20733,Rooney,Dorothy,7030 S. 224Th,Kent,WA,98032,(253) 872-2073,10/14/2012,PROD,Seattle,(206) 221-2073,QR-31,R-5321,15,"4,603.01",Regence BlueShield ,Bob Irwin,(206) 221-1549
+20742,Randall,Maxine,825 S. 3Rd St.,Renton,WA,98055,(425) 227-2074,10/23/2012,ACCT,Renton,(425) 393-2074,BB-27,A-1834,8,"3,314.16",Regence BlueShield ,Barbara Carrera,(206) 393-2000
+20804,Townsend,Diane,8657 S. 190Th St.,Kent,WA,98031,(253) 872-2080,12/24/2012,PROD,Seattle,(206) 221-2080,QR-06,R-5321,19,"5,339.47",Kaiser Permanente ,Joe Stone,(206) 221-2252
+20824,Epperson,Terry,13844 Se 131 St.,Renton,WA,98056,(425) 226-2082,1/13/2013,PROD,Seattle,(206) 221-2082,QR-31,R-5321,18,"5,155.36",Kaiser Permanente ,Bob Irwin,(206) 221-1549
+20838,Kramer,Peggy,524 W. Meeker,Kent,WA,98032,(253) 872-2083,1/27/2013,PROD,Seattle,(206) 221-2083,QR-10,R-2661,20,"5,523.60",Kaiser WA,Wes Adams,(206) 221-1958
+20923,Bridges,Pat,621 37Th St. Nw,Auburn,WA,98001,(253) 833-2092,4/22/2013,PROD,Seattle,(206) 221-2092,QR-35,R-2661,12,"4,050.64",Kaiser Permanente ,Marsha Mosley,(206) 221-1975
+20930,Welles,Stephanie,2820 Auburn Way South,Auburn,WA,98002,(253) 833-2093,4/29/2013,MKTG,Bellevue,(425) 882-2093,RL-27,M-1211,8,"3,314.16",Kaiser WA,Bob Shavers,(206) 882-1281
+20959,Root,Ruth,2326 Auburn Way North,Auburn,WA,98002,(253) 833-2095,5/28/2013,PROD,Renton,(425) 393-2095,PB-14,R-1779,18,"5,155.36",Regence BlueShield ,Molly Goldberg,(206) 393-1513
+21010,Dickerson,Jackie,2141 West Valley Hwy. North,Auburn,WA,98001,(253) 833-2101,7/18/2013,MKTG,Bellevue,(425) 882-2101,RL-27,M-1211,6,"2,945.92",Kaiser WA,Barry Slatta,(206) 882-2246
+21021,Morgan,Judith,1240 West Main,Auburn,WA,98001,(253) 833-2102,7/29/2013,PROD,Seattle,(206) 221-2102,QR-31,R-5321,12,"4,050.64",Regence BlueShield ,Bob Irwin,(206) 221-1549
+21056,Houlihan,Karen,316 Sw 16Th,Renton,WA,98055,(425) 227-2105,9/2/2013,PROD,Seattle,(206) 221-2105,QR-10,R-2661,10,"3,682.40",Kaiser Permanente ,Peggy Kramer,(206) 221-2083
+21087,Karman,Alice,20045 84Th Ave. S.,Kent,WA,98032,(253) 872-2108,10/3/2013,SALE,Bellevue,(425) 882-2108,HG-12,S-3006,19,"5,339.47",Regence BlueShield ,Bob Stewart,(206) 882-1590
+21104,Jones,Robert,3420 C St Ne Ste. 302,Auburn,WA,98002,(253) 833-2110,10/20/2013,PROD,Renton,(425) 393-2110,PB-18,R-1779,5,"2,761.79",Regence BlueShield ,Frank Sullivan,(206) 393-1000
+21193,Morgan,Lawrence,801 Houser Way South,Renton,WA,98055,(425) 227-2119,1/23/2014,PROD,Seattle,(206) 221-2119,QR-19,R-5321,16,"4,787.12",Kaiser Permanente ,Bill Harrison,(206) 221-2205
+21196,Lewis,Shirley,10545 Carr Rd.,Renton,WA,98055,(425) 227-2119,1/20/2014,PROD,Seattle,(206) 221-2119,QR-19,R-5321,9,"3,498.27",Kaiser Permanente ,Bill Harrison,(206) 221-2205
+21197,Presley,Bryan,19300 108Th Se,Renton,WA,98055,(425) 227-2119,1/23/2014,SALE,Bellevue,(425) 882-2119,HG-12,S-3006,9,"3,498.27",Kaiser Permanente ,Bob Stewart,(206) 882-1590
+21199,Connors,Elizabeth,325 Burnett North,Renton,WA,98055,(425) 227-2119,1/23/2014,PROD,Seattle,(206) 221-2119,QR-31,R-5321,8,"3,314.16",Kaiser Permanente ,Bob Irwin,(206) 221-1549
+21219,Tooper,Virginia,4102 Ne 4Th,Renton,WA,98056,(425) 226-2121,2/12/2014,PROD,Seattle,(206) 221-2121,QR-27,R-2661,15,"4,603.01",Kaiser WA,Lynn Jarret,(206) 221-1366
+21245,Sweet,Jean,800 Rainier Ave. South,Renton,WA,98055,(425) 227-2124,3/10/2014,PROD,Renton,(425) 393-2124,PB-18,R-1779,3,"2,393.57",Regence BlueShield ,Frank Sullivan,(206) 393-1000
+21258,Bergman,Cecelia,100 Rainier Ave. South,Renton,WA,98055,(425) 227-2125,3/23/2014,ENGR,Renton,(425) 393-2125,XJ-67,E-1089,18,"5,155.36",Regence BlueShield ,Dave Rogers,(206) 393-1973
+21265,Nichols,Bill,315 S. 3Rd,Renton,WA,98055,(425) 227-2126,3/30/2014,PROD,Seattle,(206) 221-2126,QR-35,R-2661,8,"3,314.16",Kaiser Permanente ,Marsha Mosley,(206) 221-1975
+21289,Swanson,Carol,724 S. 3Rd,Renton,WA,98055,(425) 227-2128,4/23/2014,PROD,Seattle,(206) 221-2128,QR-06,R-5321,14,"4,418.88",Kaiser WA,Joe Stone,(206) 221-2252
+21308,Wood,Andrew,1734 S. Central Ave.,Kent,WA,98032,(253) 872-2130,5/12/2014,PROD,Seattle,(206) 221-2130,QR-07,R-2661,11,"3,866.53",Kaiser WA,Eleanor Lancaster,(206) 221-1124
+21309,Douglas,James,4901 D St. Ne,Auburn,WA,98002,(253) 833-2130,5/13/2014,PROD,Seattle,(206) 221-2130,QR-27,R-2661,12,"4,050.64",Kaiser WA,Lynn Jarret,(206) 221-1366
+21328,Lord,Robert,620 Naches Ave. Sw,Renton,WA,98055,(425) 227-2132,6/1/2014,PROD,Seattle,(206) 221-2132,QR-31,R-5321,4,"2,577.68",Regence BlueShield ,Bob Irwin,(206) 221-1549
+21478,Williams,Bob,3130 D St. Se,Auburn,WA,98002,(253) 833-2147,10/29/2014,PROD,Renton,(425) 393-2147,PB-14,R-1779,15,"4,603.01",Regence BlueShield ,Molly Goldberg,(206) 393-1513
+21533,Alberts,George,1819 Westlake Ave. N.,Seattle,WA,98109,(206) 452-2153,12/23/2014,PROD,Seattle,(206) 221-2153,QR-35,R-2661,4,"2,577.68",Kaiser WA,Marsha Mosley,(206) 221-1975
+21534,Walters,Karen,2112 A St. Se,Auburn,WA,98002,(253) 833-2153,12/24/2014,PROD,Renton,(425) 393-2153,PB-21,R-1779,15,"4,603.01",Kaiser Permanente ,Frank Borman,(206) 393-1265
+21592,McGinnis,Gerald,600 Sw 10Th,Renton,WA,98055,(425) 227-2159,2/20/2015,ACCT,Renton,(425) 393-2159,BB-27,A-1834,14,"4,418.88",Kaiser WA,Barbara Carrera,(206) 393-2000
+21593,Gray,Lee,2809 Academy Dr.,Auburn,WA,98002,(253) 833-2159,2/21/2015,PROD,Seattle,(206) 221-2159,QR-35,R-2661,5,"2,761.79",Regence BlueShield ,Marsha Mosley,(206) 221-1975
+21594,Lopez,Eileen,4430 Talbot Rd. South,Renton,WA,98055,(425) 227-2159,2/22/2015,PROD,Seattle,(206) 221-2159,QR-31,R-5321,5,"2,761.79",Regence BlueShield ,Bob Irwin,(206) 221-1549
+21598,McKinley,John,1930 A St. Se,Auburn,WA,98002,(253) 833-2159,2/26/2015,PROD,Seattle,(206) 221-2159,QR-27,R-2661,5,"2,761.79",Regence BlueShield ,Lynn Jarret,(206) 221-1366
+21614,Cook,Gene,204 Sw 43Rd,Renton,WA,98055,(425) 227-2161,3/14/2015,PROD,Seattle,(206) 221-2161,QR-12,R-2661,9,"3,498.27",Regence BlueShield ,Harry Hillis,(206) 221-2179
+21615,Evans,Bill,450 Shttuck Ave S Ste 200,Renton,WA,98055,(425) 227-2161,3/15/2015,PROD,Seattle,(206) 221-2161,QR-10,R-2661,8,"3,314.16",Regence BlueShield ,Peggy Kramer,(206) 221-2083
+21657,Griffith,Carol,1400 Monster Rd. Sw,Renton,WA,98055,(425) 227-2165,4/26/2015,SALE,Bellevue,(425) 882-2165,HG-12,S-3006,18,"5,155.36",Kaiser WA,Bob Stewart,(206) 882-1590
+21658,Pacino,Theodore,715 Lind Sw,Renton,WA,98055,(425) 227-2165,4/26/2015,PROD,Renton,(425) 393-2165,PB-18,R-1779,9,"3,498.27",Kaiser WA,Frank Sullivan,(206) 393-1000
+21679,Schwartz,Bill,906 Industry Dr.,Tukwila,WA,98188,(206) 575-2167,5/18/2015,PROD,Seattle,(206) 221-2167,QR-07,R-2661,14,"4,418.88",Kaiser WA,Eleanor Lancaster,(206) 221-1124
+21752,Hickok,Joe,16610 Se 128Th St. Ste B,Renton,WA,98056,(425) 226-2175,7/30/2015,ACCT,Renton,(425) 393-2175,BB-27,A-1834,3,"2,393.57",Regence BlueShield ,Barbara Carrera,(206) 393-2000
+21776,Cassidy,Jeff,211 Morris Ave. South,Renton,WA,98055,(425) 227-2177,8/23/2015,PROD,Seattle,(206) 221-2177,QR-19,R-5321,12,"4,050.64",Regence BlueShield ,Bill Harrison,(206) 221-2205
+21777,Martiniak,Ray,1501 15Th Nw Ste. 106,Auburn,WA,98001,(253) 833-2177,8/24/2015,SALE,Bellevue,(425) 882-2177,HG-12,S-3006,7,"3,130.03",Kaiser Permanente ,Bob Stewart,(206) 882-1590
+21796,Tillis,Harry,1347 Aubum Way North,Auburn,WA,98002,(253) 833-2179,9/12/2015,PROD,Seattle,(206) 221-2179,QR-12,R-2661,20,"5,523.60",Kaiser Permanente ,Wes Adams,(206) 221-1958
+21813,Parker,Phyllis,500 Sw 16Th,Renton,WA,98055,(425) 227-2181,9/29/2015,PROD,Seattle,(206) 221-2181,QR-10,R-2661,19,"5,339.47",Regence BlueShield ,Peggy Kramer,(206) 221-2083
+21902,Graham,Margaret,18 Aubum Way North,Auburn,WA,98002,(253) 833-2190,12/27/2015,ACCT,Seattle,(206) 221-2190,BX-45,A-1834,18,"5,155.36",Kaiser Permanente ,Val Johnson,(206) 221-1958
+21911,Carter,Liz,R St And Oravitz Rd,Auburn,WA,98002,(253) 833-2191,1/5/2016,PROD,Seattle,(206) 221-2191,QR-27,R-2661,7,"3,130.03",Kaiser Permanente ,Lynn Jarret,(206) 221-1366
+21919,Davenport,Donna,903 S. 4Th St.,Renton,WA,98055,(425) 227-2191,1/13/2016,PROD,Seattle,(206) 221-2191,QR-31,R-5321,13,"4,234.75",Kaiser Permanente ,Bob Irwin,(206) 221-1549
+21930,Watson,Ginni,315 Main Ave. South,Renton,WA,98055,(425) 227-2193,1/24/2016,MKTG,Bellevue,(425) 882-2193,RL-27,M-1211,15,"4,603.01",Kaiser WA,Bob Shavers,(206) 882-1281
+21931,Brenner,Joan,606 W. Gowe,Kent,WA,98032,(253) 872-2193,1/24/2016,PROD,Seattle,(206) 221-2193,QR-35,R-2661,18,"5,155.36",Kaiser WA,Marsha Mosley,(206) 221-1975
+21932,Lautenbach,Duane,900 Lind Ave Sw,Renton,WA,98055,(425) 227-2193,1/26/2016,ACCT,Seattle,(206) 221-2193,BX-45,A-1834,5,"2,761.79",Kaiser WA,Val Johnson,(206) 221-1958
+21933,Woodward,Claire,30 W Main,Auburn,WA,98001,(253) 833-2193,1/27/2016,ENGR,Renton,(425) 393-2193,XJ-67,E-1089,5,"2,761.79",Kaiser WA,Dave Rogers,(206) 393-1973
+21934,Flynn,Chris,200 Sw 34Th St.,Renton,WA,98056,(425) 226-2193,1/27/2016,ENGR,Renton,(425) 393-2193,XJ-67,E-1089,13,"4,234.75",Kaiser WA,Dave Rogers,(206) 393-1973
+21935,Hayes,William,542 Park Ave North,Renton,WA,98055,(425) 227-2193,1/27/2016,PROD,Seattle,(206) 221-2193,QR-35,R-2661,1,"2,025.33",Kaiser WA,Marsha Mosley,(206) 221-1975
+21938,Connors,Bud,17910 Talbot Rd. South,Renton,WA,98055,(425) 227-2193,1/24/2016,PROD,Seattle,(206) 221-2193,QR-07,R-2661,9,"3,498.27",Kaiser WA,Eleanor Lancaster,(206) 221-1124
+21942,Sample,Roger,14616 192Nd St. Se,Renton,WA,98058,(425) 226-2194,2/5/2016,ACCT,Renton,(425) 393-2194,BB-27,A-1834,1,"2,025.33",Kaiser WA,Barbara Carrera,(206) 393-2000
+21956,Lee,Timothy,3402 C St. Ne Bay #205,Auburn,WA,98002,(253) 833-2195,2/19/2016,PROD,Seattle,(206) 221-2195,QR-19,R-5321,15,"4,603.01",Kaiser WA,Bill Harrison,(206) 221-2205
+21960,Butler,John,17110 Se 116Th,Renton,WA,98058,(425) 226-2196,2/23/2016,MKTG,Bellevue,(425) 882-2196,RL-27,M-1211,11,"3,866.53",Regence BlueShield ,Jon Reynolds,(206) 882-304
+21961,Taylor,Vince,909 Thomas Ave. Sw,Renton,WA,98055,(425) 227-2196,2/23/2016,PROD,Seattle,(206) 221-2196,QR-06,R-5321,8,"3,314.16",Regence BlueShield ,Joe Stone,(206) 221-2252
+21962,Selleck,Shirley,19027 72Nd Ave. S.,Kent,WA,98032,(253) 872-2196,2/25/2016,ACCT,Renton,(425) 393-2196,BB-27,A-1834,18,"5,155.36",Regence BlueShield ,Barbara Carrera,(206) 393-2000
+22021,Marsh,Marilyn,926 Aubum Way North,Auburn,WA,98002,(253) 833-2202,4/24/2016,PROD,Seattle,(206) 221-2202,QR-19,R-5321,5,"2,761.79",Kaiser WA,Bill Harrison,(206) 221-2205
+22031,Weinberg,David,4517 Aubum Way,Auburn,WA,98002,(253) 833-2203,5/4/2016,ENGR,Renton,(425) 393-2203,XJ-67,E-1089,2,"2,209.44",Kaiser WA,Dave Morgan,(206) 393-2002
+22037,Johnson,Peter,3102 B St. Nw,Auburn,WA,98001,(253) 833-2203,5/10/2016,SALE,Bellevue,(425) 882-2203,HG-12,S-3006,5,"2,761.79",Kaiser WA,Bob Stewart,(206) 882-1590
+22053,Peters,Deborah,18644 72Nd Ave. S.,Kent,WA,98032,(253) 872-2205,5/26/2016,ENGR,Renton,(425) 393-2205,XJ-67,E-1089,18,"5,155.36",Regence BlueShield ,Dave Rogers,(206) 393-1973
+22056,Harrison,Bill,10700 Se 174Th Ste. 202,Renton,WA,98055,(425) 227-2205,5/29/2016,PROD,Seattle,(206) 221-2205,QR-19,R-5321,20,"5,523.60",Regence BlueShield ,Wes Adams,(206) 221-1958
+22062,Hoover,Toni,3240 B St. Nw,Auburn,WA,98001,(253) 833-2206,6/4/2016,ACCT,Seattle,(206) 221-2206,BX-45,A-1834,6,"2,945.92",Regence BlueShield ,Val Johnson,(206) 221-1958
+22099,Bronson,Douglas,453 Renton Center Way Sw,Renton,WA,98055,(425) 227-2209,7/11/2016,PROD,Seattle,(206) 221-2209,QR-07,R-2661,11,"3,866.53",Kaiser WA,Eleanor Lancaster,(206) 221-1124
+22113,Andrews,Mike,23605 - 156Th S.E.,Kent,WA,98042,(253) 872-2211,7/25/2016,PROD,Seattle,(206) 221-2211,QR-12,R-2661,15,"4,603.01",Regence BlueShield ,Harry Hillis,(206) 221-2179
+22134,Otto,Emily,3000 Lind Ave. Sw,Renton,WA,98055,(425) 227-2213,8/15/2016,PROD,Renton,(425) 393-2213,PB-21,R-1779,14,"4,418.88",Regence BlueShield ,Frank Borman,(206) 393-1265
+22166,Lincoln,Beatrice,330 Sunset Blvd. North,Renton,WA,98055,(425) 227-2216,9/16/2016,PROD,Seattle,(206) 221-2216,QR-10,R-2661,4,"2,577.68",Kaiser Permanente ,Peggy Kramer,(206) 221-2083
+22177,Frasier,Gordon,14001 57Th Ave. S.,Seattle,WA,98168,(206) 452-2217,9/27/2016,SALE,Bellevue,(425) 882-2217,HG-12,S-3006,4,"2,577.68",Regence BlueShield ,Bob Stewart,(206) 882-1590
+22184,Jackson,Kim,2904 A St. Se,Auburn,WA,98002,(253) 833-2218,10/4/2016,PROD,Renton,(425) 393-2218,PB-18,R-1779,3,"2,393.57",Regence BlueShield ,Frank Sullivan,(206) 393-1000
+22230,Bond,Ward,1405 Aubum Way South,Auburn,WA,98002,(253) 833-2223,11/19/2016,MKTG,Bellevue,(425) 882-2223,RL-27,M-1211,10,"3,682.40",Regence BlueShield ,Bob Shavers,(206) 882-1281
+22237,Broderick,Rosalind,364 Renton Center Way Sw,Renton,WA,98055,(425) 227-2223,11/26/2016,SALE,Bellevue,(425) 882-2223,HG-12,S-3006,19,"5,339.47",Kaiser WA,Bob Stewart,(206) 882-1590
+22263,Ayres,William,330 Main Ave. South,Renton,WA,98055,(425) 227-2226,12/22/2016,PROD,Seattle,(206) 221-2226,QR-10,R-2661,1,"2,025.33",Kaiser WA,Peggy Kramer,(206) 221-2083
+22281,Haas,Arthur,301 W Main,Auburn,WA,98001,(253) 833-2228,1/9/2017,PROD,Seattle,(206) 221-2228,QR-07,R-2661,15,"4,603.01",Kaiser Permanente ,Eleanor Lancaster,(206) 221-1124
+22329,Rocks,Joanne,501 10Th Ave. North,Auburn,WA,98001,(253) 833-2232,2/26/2017,PROD,Seattle,(206) 221-2232,QR-10,R-2661,18,"5,155.36",Regence BlueShield ,Peggy Kramer,(206) 221-2083
+22333,Wilder,Robert,16201 W. Valley Hwy.,Tukwila,WA,98188,(206) 575-2233,3/2/2017,PROD,Seattle,(206) 221-2233,QR-12,R-2661,11,"3,866.53",Regence BlueShield ,Harry Hillis,(206) 221-2179
+22353,Gable,Richard,Main St.,Auburn,WA,98002,(253) 833-2235,3/22/2017,PROD,Seattle,(206) 221-2235,QR-07,R-2661,15,"4,603.01",Regence BlueShield ,Eleanor Lancaster,(206) 221-1124
+22358,Cathcart,Jerry,1900 S Puget Dr. #110,Renton,WA,98055,(425) 227-2235,3/27/2017,PROD,Seattle,(206) 221-2235,QR-35,R-2661,19,"5,339.47",Kaiser Permanente ,Marsha Mosley,(206) 221-1975
+22383,Grove,Robert,8206 South 192Nd St.,Kent,WA,98032,(253) 872-2238,4/22/2017,PROD,Seattle,(206) 221-2238,QR-12,R-2661,5,"2,761.79",Kaiser Permanente ,Harry Hillis,(206) 221-2179
+22384,Sorrano,Henry,16526 161St Ave Se,Renton,WA,98058,(425) 226-2238,4/22/2017,PROD,Seattle,(206) 221-2238,QR-31,R-5321,19,"5,339.47",Kaiser Permanente ,Bob Irwin,(206) 221-1549
+22416,Buckle,Susan,879 Rainier Ave. North #A102,Renton,WA,98055,(425) 227-2241,5/24/2017,PROD,Seattle,(206) 221-2241,QR-07,R-2661,24,"6,260.08",Regence BlueShield ,None,
+22460,Slatta,Barry,3136 B St. Nw,Auburn,WA,98001,(253) 833-2246,7/7/2017,MKTG,Bellevue,(425) 882-2246,RL-27,M-1211,19,"5,339.47",Kaiser WA,Diane Arthur,(206) 882-1237
+22493,Bechtel,Lois,20 2Nd Ne,Auburn,WA,98002,(253) 833-2249,8/9/2017,PROD,Seattle,(206) 221-2249,QR-07,R-2661,2,"2,209.44",Regence BlueShield ,Eleanor Lancaster,(206) 221-1124
+22513,Jennings,Michael,707 Rainier Ave. South,Renton,WA,98055,(425) 227-2251,8/29/2017,PROD,Renton,(425) 393-2251,PB-18,R-1779,5,"2,761.79",Kaiser Permanente ,Frank Sullivan,(206) 393-1000
+22529,Stone,Joseph,4044 Aubum Way N Ste. 11,Auburn,WA,98002,(253) 833-2252,9/14/2017,PROD,Seattle,(206) 221-2252,QR-06,R-5321,20,"5,523.60",Kaiser Permanente ,Wes Adams,(206) 221-1958
+22531,Crosby,Donald,705 Rainier Ave. South,Renton,WA,98055,(425) 227-2253,9/16/2017,PROD,Seattle,(206) 221-2253,QR-10,R-2661,8,"3,314.16",Kaiser Permanente ,Peggy Kramer,(206) 221-2083
+22541,Mills,William,307 N. Lincoln,Kent,WA,98032,(253) 872-2254,9/26/2017,PROD,Seattle,(206) 221-2254,QR-12,R-2661,15,"4,603.01",Regence BlueShield ,Harry Hillis,(206) 221-2179
+22554,Jones,Jonathan,7687 S. 180Th,Kent,WA,98032,(253) 872-2255,10/9/2017,PROD,Seattle,(206) 221-2255,QR-12,R-2661,17,"4,971.25",Regence BlueShield ,Harry Hillis,(206) 221-2179
+22574,Greene,Lee,314 Williams S.,Renton,WA,98055,(425) 227-2257,10/29/2017,PROD,Seattle,(206) 221-2257,QR-19,R-5321,11,"3,866.53",Regence BlueShield ,Bill Harrison,(206) 221-2205
+22755,Brinkley,Stanley,24050 Pacific Hwy S.,Kent,WA,98032,(253) 872-2275,4/28/2018,PROD,Seattle,(206) 221-2275,QR-19,R-5321,15,"4,603.01",Kaiser WA,Bill Harrison,(206) 221-2205
+22792,Strassberger,Tom,131 30Th St. Ne Ste. 25,Auburn,WA,98002,(253) 833-2279,6/4/2018,ACCT,Seattle,(206) 221-2279,BX-45,A-1834,15,"4,603.01",Regence BlueShield ,Val Johnson,(206) 221-1958
+22857,Weldon,Karen,"300 S.W. 7Th, Rm. 145",Renton,WA,98055,(425) 227-2285,8/8/2018,SALE,Bellevue,(425) 882-2285,HG-12,S-3006,11,"3,866.53",Regence BlueShield ,Bob Stewart,(206) 882-1590
+22895,Lindquist,Dale,4616 S. 200Th,Kent,WA,98032,(253) 872-2289,9/15/2018,ENGR,Renton,(425) 393-2289,XJ-67,E-1089,15,"4,603.01",Kaiser Permanente ,Dave Rogers,(206) 393-1973
+22905,Christiansen,Paul,2704 I St. Ne,Auburn,WA,98002,(253) 833-2290,9/25/2018,PROD,Seattle,(206) 221-2290,QR-07,R-2661,5,"2,761.79",Regence BlueShield ,Eleanor Lancaster,(206) 221-1124
+22924,Farnsworth,Gerald,4011 Talbot Rd. South Ste. 210,Renton,WA,98055,(425) 227-2292,10/14/2018,PROD,Renton,(425) 393-2292,PB-21,R-1779,4,"2,577.68",Regence BlueShield ,Frank Borman,(206) 393-1265
+22936,Stovall,Jay,1437 West Valley Hwy.,Auburn,WA,98001,(253) 833-2293,10/26/2018,PROD,Seattle,(206) 221-2293,QR-31,R-5321,3,"2,393.57",Regence BlueShield ,Bob Irwin,(206) 221-1549
+22940,Somerson,Judy,11888 172Nd Pl. Se,Renton,WA,98056,(425) 226-2294,10/30/2018,MKTG,Bellevue,(425) 882-2294,RL-27,M-1211,11,"3,866.53",Regence BlueShield ,Barry Slatta,(206) 882-2246
+22945,Reed,Dennis,3104 Aubum Way North,Auburn,WA,98002,(253) 833-2294,10/30/2018,ENGR,Renton,(425) 393-2294,XJ-67,E-1089,9,"3,498.27",Regence BlueShield ,Dave Morgan,(206) 393-2002
+23262,Zoom,Zelda,17722 Springbrook Rd.,Renton,WA,98055,(425) 227-2326,11/7/2018,ACCT,Renton,(425) 393-2326,BB-27,A-1834,16,"4,787.12",Kaiser Permanente ,Barbara Carrera,(206) 393-2000
